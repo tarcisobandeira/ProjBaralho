@@ -1,4 +1,4 @@
-package br.bandeira.fatec.entities;
+package br.bandeira.fatec.enums;
 
 public enum Valor {
 

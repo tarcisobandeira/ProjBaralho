@@ -1,8 +1,6 @@
 package br.bandeira.fatec;
 
 import br.bandeira.fatec.entities.Baralho;
-import br.bandeira.fatec.entities.Naipe;
-import br.bandeira.fatec.entities.Valor;
 
 public class GerenciarJogo {
 

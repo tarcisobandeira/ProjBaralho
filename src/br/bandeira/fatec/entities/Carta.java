@@ -1,5 +1,8 @@
 package br.bandeira.fatec.entities;
 
+import br.bandeira.fatec.enums.Naipe;
+import br.bandeira.fatec.enums.Valor;
+
 public class Carta {
     private Naipe naipe;
     private Valor valor;

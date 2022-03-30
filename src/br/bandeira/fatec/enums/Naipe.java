@@ -1,4 +1,4 @@
-package br.bandeira.fatec.entities;
+package br.bandeira.fatec.enums;
 
 public enum Naipe {
     COPAS(1), ESPADA(2), OURO(3), PAUS(4);

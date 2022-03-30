@@ -1,7 +1,9 @@
 package br.bandeira.fatec.entities;
 
+import br.bandeira.fatec.enums.Naipe;
+import br.bandeira.fatec.enums.Valor;
+
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Collections;
 import java.util.List;
 
